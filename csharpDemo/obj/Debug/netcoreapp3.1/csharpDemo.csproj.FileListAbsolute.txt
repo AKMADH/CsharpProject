@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.exe
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.deps.json
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.dll
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\bin\Debug\netcoreapp3.1\csharpDemo.pdb
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.dll
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.pdb
+C:\Users\Lenovo\source\repos\CsharpProject\csharpDemo\obj\Debug\netcoreapp3.1\csharpDemo.genruntimeconfig.cache
