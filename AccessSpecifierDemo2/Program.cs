@@ -3,7 +3,7 @@ using System;
 
 namespace AccessSpecifierDemo2
 {
-    class Program : A
+   public class Program : A
     {
         static void Main(string[] args)
         {

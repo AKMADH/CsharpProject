@@ -4,7 +4,7 @@ using System.Text;
 
 namespace csharpDemo
 {
-     class A
+    public class A
     {
         public void PublicMethod()
         {

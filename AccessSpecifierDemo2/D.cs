@@ -7,11 +7,11 @@ namespace AccessSpecifierDemo2
 {
     class D
     {
-        static void Main()
-        {
-            A obj = new A();
-            obj.PublicMethod();
+        //static void Main()
+        //{
+        //    A obj = new A();
+        //    obj.PublicMethod();
            
-        }
+        //}
     }
 }

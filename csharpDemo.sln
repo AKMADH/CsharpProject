@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpDemo", "csharpDemo\csharpDemo.csproj", "{951DF813-9F8C-40D6-9AE8-E076BCCC440A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifierDemo2", "AccessSpecifierDemo2\AccessSpecifierDemo2.csproj", "{8E753320-EBF2-4072-B6FB-FF993A240D73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessSpecifierDemo2", "AccessSpecifierDemo2\AccessSpecifierDemo2.csproj", "{8E753320-EBF2-4072-B6FB-FF993A240D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "..\InheritanceDemo\InheritanceDemo.csproj", "{0E0942BD-2172-4068-A293-52FAFD15CA9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8E753320-EBF2-4072-B6FB-FF993A240D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E753320-EBF2-4072-B6FB-FF993A240D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E753320-EBF2-4072-B6FB-FF993A240D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0942BD-2172-4068-A293-52FAFD15CA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0942BD-2172-4068-A293-52FAFD15CA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0942BD-2172-4068-A293-52FAFD15CA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0942BD-2172-4068-A293-52FAFD15CA9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

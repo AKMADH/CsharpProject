@@ -1,0 +1,4 @@
+C:\Users\Lenovo\source\repos\CsharpProject\AccessSpecifierDemo2\obj\Debug\netcoreapp3.1\AccessSpecifierDemo2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProject\AccessSpecifierDemo2\obj\Debug\netcoreapp3.1\AccessSpecifierDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProject\AccessSpecifierDemo2\obj\Debug\netcoreapp3.1\AccessSpecifierDemo2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProject\AccessSpecifierDemo2\obj\Debug\netcoreapp3.1\AccessSpecifierDemo2.AssemblyInfo.cs
